@@ -1,6 +1,6 @@
 # test-net
 
-A PowerShell script to test network connectivity on a Windows computer.
+A PowerShell script to test basic network connectivity on a Windows computer.
 
 ## Usage
 
